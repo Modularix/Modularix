@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-My current printer farm: ELEGOO NEPTUNE, NEPTUNE 2, NEPTUNE 2S, MARS, MARS 2 and SATURN
+My current 3D printer farm: ELEGOO NEPTUN, NEPTUN 2, NEPTUN 2S, MARS, MARS 2 and SATURN
 <!---
 Modularix/Modularix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
